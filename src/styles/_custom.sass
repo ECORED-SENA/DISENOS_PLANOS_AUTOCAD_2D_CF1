@@ -1,0 +1,72 @@
+.cajon.color-primario
+  background-color: #EFF2F5
+
+.cajon.color-primario::before
+  background-color: #92A7BA
+
+.cajon.color-secundario
+  background-color: #F9E0E0
+
+.cajon.color-secundario::before
+  background-color: #D32F2F
+
+.bloque-texto-a.color-secundario
+  background-color: #E9E9E9
+
+.bloque-texto-a.color-secundario::before
+  background-color: #92A7BA
+
+.crd_02
+  display: flex
+  justify-content: flex-start
+  align-items: center
+  border-radius: 25px
+  background-color: #453E3E
+  &__body
+    flex: 1
+    display: flex
+    justify-content: center
+    align-items: center
+    //padding: 2rem 0
+    &__number
+      padding: 0.5rem 1rem
+      background-color: #FBA321
+      border-radius: 999px
+      margin: 0 25px
+      span        
+        font-size: 19px
+        font-weight: 800
+        color: #12263F
+    &__txt
+      p
+        color: white
+  &__avatar
+    flex-basis: auto
+    width: 300px
+
+  @media (max-width: 1000px) 
+    padding: 2rem 0 0 0
+    flex-direction: column
+    justify-content: end
+    align-items: flex-end
+    &__body
+      &__txt
+        margin-right: 2rem
+
+.boton.color-acento-contenido:active, .color-acento-contenido.boton--sm:active, .boton.color-acento-contenido:focus, .color-acento-contenido.boton--sm:focus, .boton.color-acento-contenido, .color-acento-contenido.boton--sm
+  background-color: #FBA321 !important
+
+.boton.color-acento-contenido:active, .color-acento-contenido.boton--sm:active, .boton.color-acento-contenido:focus, .color-acento-contenido.boton--sm:focus, .boton.color-acento-contenido:hover, .color-acento-contenido.boton--sm:hover
+  background-color: #FBA321 !important
+
+.bg-color1
+  background-color: #92A7BA
+
+.bg-color2
+  background-color: #FFFFFF
+
+.bg-color3
+  background-color: #FFF2DE
+
+.tarjeta.color-acento-botones
+  background-color: #FEE8C7
