@@ -14,7 +14,7 @@
     #t_4_1
     .titulo-segundo
       h2 4.1 Expresión gráfica
-    p La formación gráfica del aprendiz de diseño constituye una auténtica introducción al ejercicio de la Arquitectura, la Ingeniería y demás profesiones relacionadas, todas #[b como actividad creativa].
+    p La formación gráfica del aprendiz de diseño constituye una auténtica introducción al ejercicio de la Arquitectura, la Ingeniería y demás profesiones relacionadas, #[b todas como actividad creativa].
     .row
       .col-lg-7
         p Según Bertoline, Wiebe, Miller & Mohler (1999), #[span(style="background-color: #E4E9EE; padding: 3px;") el dibujo es tan antiguo en su historia y es virtualmente el mismo de la humanidad; tiene un paralelismo muy cercano con el progreso tecnológico. El dibujo bien puede clasificarse como un “lenguaje universal”, como método natural que utilizan los seres humanos para comunicar de manera gráfica las imágenes mentales].
@@ -156,7 +156,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador
-    #t_4_5
+    #t_4_6
     .titulo-segundo
       h2 4.6 Sistemas de unidades de longitud
     .row.mb-5
@@ -194,7 +194,7 @@
             figure
               img(src='@/assets/curso/img30.svg', style="margin: auto; max-width: 50%;")
         hr
-        p.my-5 Tercero. Finalmente, se obtiene el dato para escalar el dibujo 9842.51 veces, para que quede a una escala acorde al diseño donde se va a usar, como se muestra en la siguiente figura.
+        p.my-5 #[b Tercero]. Finalmente, se obtiene el dato para escalar el dibujo 9842.51 veces, para que quede a una escala acorde al diseño donde se va a usar, como se muestra en la siguiente figura.
         figure
           img(src='@/assets/curso/img31.svg', style="margin: auto; max-width: 80%;")
     p.mb-0 Generalmente se emplean tablas para conocer los factores de conversión; sin embargo, hoy es posible el uso de aplicaciones web o aplicaciones que se pueden descargar en los dispositivos móviles, y que presentan datos aceptables.

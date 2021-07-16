@@ -371,6 +371,28 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Saúl Santamaría Gutiérrez',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de Mercados, Logística y Tecnologías de la Información Regional Distrito Capital',
+      },
+      {
+        nombre: 'Oscar Absalón Guevara',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+      },
+      {
+        nombre: 'Luz Aída Quintero Velásquez',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -385,16 +407,15 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Blanca Flor Tinoco Torres',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhon Jairo Urueta Alvarez',
         cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
         nombre: 'Nombre',
@@ -403,7 +424,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

@@ -48,7 +48,7 @@
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/img38.svg', style="margin: auto; max-width: 70%;")
-    p.mb-5 En la siguiente imagen se muestran las siguientes solicitudes:
+    p.mb-5 Observe las solicitudes que se muestran a continuación:
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
