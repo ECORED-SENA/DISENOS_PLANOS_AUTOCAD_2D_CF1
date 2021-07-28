@@ -79,7 +79,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/slujS36MiwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p Además, descargue aquí la presentación de la interfaz de usuario y configuración de #[i software]
+    p Además, descargue aquí la presentación de la interfaz de usuario y configuración de #[i software].
     .col-lg-6.mb-5
       a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo1.pptx')" target="_blank")
         .anexo__icono
@@ -88,10 +88,6 @@
           p Anexo. presentación interfaz de usuario
     h4 Empezar a utilizar AutoCAD
     p Para utilizar el software de AutoCAD se puede crear una cuenta en el sitio web #[a(href="https://latinoamerica.autodesk.com/" target="blank") #[b https://latinoamerica.autodesk.com/]]  que ofrece algunas alternativas gratuitas para estudiantes de hasta de 3 años de uso, o de lo contrario, puede activar una prueba gratuita por 30 días.
-    p A continuación, observe el tutorial inicial para uso de AutoCAD.
-    figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
