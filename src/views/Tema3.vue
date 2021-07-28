@@ -78,7 +78,7 @@
     p.mb-5 Observe el siguiente video en el que se describen cada una de las partes.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/slujS36MiwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p Además, descargue aquí la presentación de la interfaz de usuario y configuración de #[i software]
     .col-lg-6.mb-5
       a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo1.pptx')" target="_blank")

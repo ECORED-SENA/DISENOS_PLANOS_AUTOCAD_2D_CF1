@@ -20,7 +20,7 @@
     p.mb-5 En la siguiente presentación encontrará una descripción más completa del CAD.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/rBzNNjxhCXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-4 CAD son las siglas en inglés para diseño asistido por computadora y, AutoCAD es la herramienta que permite hacer la gran mayoría de diseños, permitiendo trabajar dibujos en 2 dimensiones y su modelado en 3 dimensiones si se requiere. Los dibujos en 2D se realizan a través de vectores, que consisten en un conjunto de líneas curvas y puntos mediante los cuales puede formar polígonos y elementos más complejos como superficies y dibujos en 3D.
     .row.justify-content-center
       .col-10
