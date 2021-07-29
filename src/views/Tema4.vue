@@ -162,7 +162,7 @@
     .row.mb-5
       .col-lg-6
         p Es importante recordar que uno de los puntos de partida para trabajar cualquier problema que involucre magnitudes es definir el sistema de unidades en el que se trabajará; ya se vio que la referencia estándar para unidades de medida a nivel mundial es el Sistema Internacional de Unidades [SI], que parte del uso de las magnitudes fundamentales longitud, tiempo, masa, fuerza y sus unidades bases que son respectivamente metro, segundo, kilogramo y newton, a partir de las cuales se derivan las demás.
-        p También se mencionó que aparte del sistema internacional de unidades es posible emplear otras unidades y sistemas para expresar las medidas, este es el caso del sistema tradicional de unidades de Estados Unidos, también conocido como Sistema gravitacional de unidades inglesas, en el que las unidades para las magnitudes de longitud, tiempo, fuerza y masa son respectivamente el pie, segundo, libra y slug.
+        p También se mencionó que aparte del sistema internacional de unidades es posible emplear otras unidades y sistemas para expresar las medidas, este es el caso del sistema tradicional de unidades de Estados Unidos, también conocido como Sistema gravitacional de unidades inglesas, en el que las unidades para las magnitudes de longitud, tiempo, fuerza y masa son respectivamente el pie, segundo, libra y #[i slug].
         p Para la aplicación solo se necesitará trabajar con unidades de longitud y área, pero pueden estar en cualquiera de los dos sistemas.
       .col-lg-6.mt-4.mt-lg-0
         figure

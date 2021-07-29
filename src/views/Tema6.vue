@@ -24,13 +24,13 @@
     separador
     #t_6_2
     .titulo-segundo
-      h2 6.2 Círculos, arcos y spline
+      h2 6.2 Círculos, arcos y #[i spline]
     p Las herramientas que se verán a continuación son todos los tipos de radios o circunferencias que se pueden crear en AutoCAD 2D, describiendo paso a paso cada uno de los comandos y su aplicación.
     p.mb-5 Con el fin de reforzar la información anterior consulte el siguiente video tutorial que desarrolla el tema de los círculos.
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/TbLoHE8dung" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 Para reforzar la información sobre arcos y spline puede ver el siguiente video tutorial.
+    p.mb-5 Para reforzar la información sobre arcos y #[i spline] puede ver el siguiente video tutorial.
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/vnbUtRf_f-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
