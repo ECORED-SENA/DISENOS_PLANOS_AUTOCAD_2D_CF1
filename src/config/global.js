@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Interfaz de usuario, diseños y vistas en AutoCAD 2D',
     descripcionCurso:
-      'La importancia del software AutoCAD está dada en entender la definición de diseño asistido por computador con las siglas CAD y deducir sus características y diferencias entre versiones. Todo lo anterior centrado en comprender el orden de su interfaz y la disposición de herramientas para crear dibujos y diseños, entendiendo para quién o para qué se crea un diseño y en equivalente al uso correcto de las herramientas disponibles para materializar dichas geometrías.',
+      'La importancia del <i>software</i> AutoCAD está dada en entender la definición de diseño asistido por computador con las siglas CAD y deducir sus características y diferencias entre versiones. Todo lo anterior centrado en comprender el orden de su interfaz y la disposición de herramientas para crear dibujos y diseños, entendiendo para quién o para qué se crea un diseño y en equivalente al uso correcto de las herramientas disponibles para materializar dichas geometrías.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
@@ -264,7 +264,7 @@ export default {
     {
       termino: 'Interfaz',
       significado:
-        'es el tipo de entorno definido por el tipo de herramientas con el que se trabajará, en este caso se señala la subdivisión de partes y materiales que se encuentran en el programa. Este entorno o espacio tiene cualidades o propiedades diferentes dispuestas por el mismo software.',
+        'es el tipo de entorno definido por el tipo de herramientas con el que se trabajará, en este caso se señala la subdivisión de partes y materiales que se encuentran en el programa. Este entorno o espacio tiene cualidades o propiedades diferentes dispuestas por el mismo <i>software.</i>',
     },
     {
       termino: 'Ortogonal',

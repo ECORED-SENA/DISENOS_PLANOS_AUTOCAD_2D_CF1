@@ -14,7 +14,7 @@
       .py-4.py-md-5(titulo="AutoCAD Architecture" :icono="require('@/assets/curso/img2.svg')")
         .row
           .col-lg-6.mb-4.mb-md-0
-            p De acuerdo con la página de Autodeskt, AutoCAD Architecture agrega funciones para dibujo arquitectónico, documentación y programas, y para automatizar las tareas de boceto.
+            p De acuerdo con la página de Autodesk, AutoCAD Architecture agrega funciones para dibujo arquitectónico, documentación y programas, y para automatizar las tareas de boceto.
             p Algunas de las principales características son:
             ul.lista-ul
               li 
@@ -32,7 +32,7 @@
       .py-4.py-md-5(titulo="AutoCAD Electrical" :icono="require('@/assets/curso/img2.svg')")
         .row
           .col-lg-6.mb-4.mb-md-0
-            p De acuerdo con la página de Autodeskt, AutoCAD Electrical agrega funciones de diseño eléctrico para ayudarle a crear, modificar y documentar sistemas de controles eléctricos.
+            p De acuerdo con la página de Autodesk, AutoCAD Electrical agrega funciones de diseño eléctrico para ayudarle a crear, modificar y documentar sistemas de controles eléctricos.
             p Algunas de las principales características son: 
             ul.lista-ul
               li 
@@ -50,7 +50,7 @@
       .py-4.py-md-5(titulo="AutoCAD Mechanical" :icono="require('@/assets/curso/img2.svg')")
         .row
           .col-lg-6.mb-4.mb-md-0
-            p De acuerdo con la página de Autodeskt, AutoCAD Mechanical agrega una biblioteca de partes y herramientas basadas en estándares para ayudarle a crear, modificar y documentar diseños mecánicos para la fabricación.
+            p De acuerdo con la página de Autodesk, AutoCAD Mechanical agrega una biblioteca de partes y herramientas basadas en estándares para ayudarle a crear, modificar y documentar diseños mecánicos para la fabricación.
             p Algunas de las principales características son: 
             ul.lista-ul
               li 
@@ -68,7 +68,7 @@
       .py-4.py-md-5(titulo="AutoCAD Plant 3D" :icono="require('@/assets/curso/img3.svg')")
         .row
           .col-lg-6.mb-4.mb-md-0
-            p De acuerdo con la página de Autodeskt, AutoCAD Plant 3D agrega funciones para ayudarle a producir P&ID, y luego las integra en un modelo de diseño de planta en 3D.
+            p De acuerdo con la página de Autodesk, AutoCAD Plant 3D agrega funciones para ayudarle a producir P&ID, y luego las integra en un modelo de diseño de planta en 3D.
             p Algunas de las principales características son: 
             ul.lista-ul
               li 
@@ -86,7 +86,7 @@
       .py-4.py-md-5(titulo="AutoCAD Civil 3D" :icono="require('@/assets/curso/img3.svg')")
         .row
           .col-lg-6.mb-4.mb-md-0
-            p De acuerdo con la página de Autodeskt,  AutoCAD Civil 3D experimenta flujos de trabajo más eficaces para el modelado de superficies y carriles, el diseño de emplazamientos, el análisis de aguas pluviales y sanitarias, y la producción y la documentación de planos.
+            p De acuerdo con la página de Autodesk,  AutoCAD Civil 3D experimenta flujos de trabajo más eficaces para el modelado de superficies y carriles, el diseño de emplazamientos, el análisis de aguas pluviales y sanitarias, y la producción y la documentación de planos.
             p Trabaja con georreferencia para la identificación de puntos topográficos.
             p Cuenta con herramientas de fácil acceso para el diseño de emplazamientos y superficies topográficas.
           .col-lg-6
