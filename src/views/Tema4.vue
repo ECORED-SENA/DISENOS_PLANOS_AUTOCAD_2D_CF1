@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span 4
       h1 Conceptos técnicos para dibujo en 2D
-    p.mb-5 Son necesarios para comprender la importancia y utilidad del diseño CAD en el desarrollo de un proyecto o en la dependencia de una organización. Temas como los tipos de diseño que existen y que son posibles de crear con las herramientas dispuestas en este software, refuerzan conceptos de vistas y dibujo técnico para la correcta interpretación de geometrías en dibujo o creación posterior de planos 2D, como se puede ver en la siguiente figura.
+    p.mb-5 Son necesarios para comprender la importancia y utilidad del diseño CAD en el desarrollo de un proyecto o en la dependencia de una organización. Temas como los tipos de diseño que existen y que son posibles de crear con las herramientas dispuestas en este #[i software], refuerzan conceptos de vistas y dibujo técnico para la correcta interpretación de geometrías en dibujo o creación posterior de planos 2D, como se puede ver en la siguiente figura.
     figure
       img(src='@/assets/curso/img15.svg', style="margin: auto; max-width: 90%;")
     separador
@@ -31,7 +31,7 @@
     #t_4_2
     .titulo-segundo
       h2 4.2 Tipos de diseño
-    p.mb-5 Existen dos tipos de diseño que se pueden crear en AutoCAD, uno el diseño estético y otro el funcional; la intención es entender que dependiendo la profesión u oficio algunas veces se necesitará crear planos 2D de máquinas funcionales para un cliente, o crear el renderizado de un diseño interior de muebles e iluminación para un proyecto de arquitectura e incluso solo el 3D de cómo quedará un puente construido para compartirlo con la comunidad que se beneficiará de ello. Cada tipo de diseño es distinto, pero usa la mayoría de las herramientas que ofrece el software de AutoCAD.
+    p.mb-5 Existen dos tipos de diseño que se pueden crear en AutoCAD, uno el diseño estético y otro el funcional; la intención es entender que dependiendo la profesión u oficio algunas veces se necesitará crear planos 2D de máquinas funcionales para un cliente, o crear el renderizado de un diseño interior de muebles e iluminación para un proyecto de arquitectura e incluso solo el 3D de cómo quedará un puente construido para compartirlo con la comunidad que se beneficiará de ello. Cada tipo de diseño es distinto, pero usa la mayoría de las herramientas que ofrece el #[i software] de AutoCAD.
     .row.mb-5
       .col-lg-7
         h4 Diseño estético

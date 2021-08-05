@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span 6
       h1 Herramientas de dibujo
-    p Las herramientas de dibujo descritas dentro del contenido de este componente formativo son geometrías simples como líneas, círculos, polígonos, arcos, etc. Todos los dibujos que se deseen elaborar en este software se encuentran compuestos por estas geometrías simples, pero a la vez importantes.
+    p Las herramientas de dibujo descritas dentro del contenido de este componente formativo son geometrías simples como líneas, círculos, polígonos, arcos, etc. Todos los dibujos que se deseen elaborar en este #[i software] se encuentran compuestos por estas geometrías simples, pero a la vez importantes.
     p Se entrará a describir el comportamiento de cada uno de los comandos para el esbozo básico de estas geometrías y posterior uso, para elaborar dibujos más profesionales.
     separador
     #t_6_1

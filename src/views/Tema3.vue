@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Interfaz de usuario y configuración del software
+      h1 Interfaz de usuario y configuración del #[i software]
     p.mb-5 La interfaz de usuario de AutoCAD está dividida principalmente por el tipo de trabajo que se quiere realizar, ya que con esto se organiza el tipo de herramientas que se van a manejar. En este caso se trabajará con todas las herramientas 2D posibles para crear los primeros diseños y geometrías.
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -87,7 +87,7 @@
         .anexo__texto
           p Anexo. presentación interfaz de usuario
     h4 Empezar a utilizar AutoCAD
-    p Para utilizar el software de AutoCAD se puede crear una cuenta en el sitio web #[a(href="https://latinoamerica.autodesk.com/" target="blank") #[b https://latinoamerica.autodesk.com/]]  que ofrece algunas alternativas gratuitas para estudiantes de hasta de 3 años de uso, o de lo contrario, puede activar una prueba gratuita por 30 días.
+    p Para utilizar el #[i software] de AutoCAD se puede crear una cuenta en el sitio web #[a(href="https://latinoamerica.autodesk.com/" target="blank") #[b https://latinoamerica.autodesk.com/]]  que ofrece algunas alternativas gratuitas para estudiantes de hasta de 3 años de uso, o de lo contrario, puede activar una prueba gratuita por 30 días.
 
 </template>
 

@@ -7,8 +7,8 @@
       .titulo-principal__numero
         span 2
       h1 Tipos de AutoCAD
-    p AutoCAD tiene distintas herramientas que se especializan según el sector económico; sin embargo, el software “base” es el mismo y las herramientas que lo componen son universales, y puede trabajar en cualquiera de las versiones que encuentre.
-    p Para especializarse en su uso se necesita entender con anterioridad la distribución del software y el alcance que puede tener la herramienta.
+    p AutoCAD tiene distintas herramientas que se especializan según el sector económico; sin embargo, el #[i software] “base” es el mismo y las herramientas que lo componen son universales, y puede trabajar en cualquiera de las versiones que encuentre.
+    p Para especializarse en su uso se necesita entender con anterioridad la distribución del #[i software] y el alcance que puede tener la herramienta.
     p.mb-5 A continuación, puede consultar los tipos de AutoCAD.
     TabsB.color-acento-contenido
       .py-4.py-md-5(titulo="AutoCAD Architecture" :icono="require('@/assets/curso/img2.svg')")
